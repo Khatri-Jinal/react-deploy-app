@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_deploy=self.webpackChunkreact_deploy||[]).push([[844],{844:function(e,c,n){n.r(c);n(791);var r=n(184);c.default=function(){return(0,r.jsx)("div",{children:(0,r.jsx)("h2",{children:"This is About page!"})})}}}]);
+//# sourceMappingURL=844.91885627.chunk.js.map
